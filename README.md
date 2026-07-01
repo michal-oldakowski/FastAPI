@@ -12,6 +12,8 @@ https://moldakowski-deployment.onrender.com/docs
 
 ## Funkcje
 
+- logowanie użytkownika
+- rejestracja użytkownika
 - tworzenie zadań
 - pobieranie zadań
 - aktualizacja zadań
